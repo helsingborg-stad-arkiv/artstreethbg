@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="sv-SE">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Konsten &#x2d; ArtStreetHbg</title>
+
+    <meta name="pubdate" content="2019-05-24">
+    <meta name="moddate" content="2022-09-26">
+
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="format-detection" content="telephone=yes">
+    <meta name="HandheldFriendly" content="true"/>
+
+    <script>
+        var ajaxurl = 'https://artstreethbg.helsingborg.se/wp/wp-admin/admin-ajax.php';
+    </script>
+
+    <style id="kirki-css-vars">:root{}</style><meta name='robots' content='max-image-preview:large' />
+
+<!-- The SEO Framework av Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:standard,max-video-preview:-1" />
+<meta property="og:image" content="https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/05/dsc0476_rt_fyrkant.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="1000" />
+<meta property="og:locale" content="sv_SE" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Konsten" />
+<meta property="og:url" content="https://artstreethbg.helsingborg.se/konsten/" />
+<meta property="og:site_name" content="ArtStreetHbg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Konsten" />
+<meta name="twitter:image" content="https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/05/dsc0476_rt_fyrkant.jpg" />
+<meta name="twitter:image:width" content="1000" />
+<meta name="twitter:image:height" content="1000" />
+<link rel="canonical" href="https://artstreethbg.helsingborg.se/konsten/" />
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://artstreethbg.helsingborg.se/","name":"ArtStreetHbg"}},{"@type":"ListItem","position":2,"item":{"@id":"https://artstreethbg.helsingborg.se/konsten/","name":"Konsten"}}]}</script>
+<!-- / The SEO Framework av Sybre Waaijer | 4.30ms meta | 0.36ms boot -->
+
+<link rel='dns-prefetch' href='//helsingborg-stad.github.io' />
+<link rel='dns-prefetch' href='//artstreethbg.helsingborg.se' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//instant.page' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script>(function(){function aa(a,b,c){return a.call.apply(a.bind,arguments)}function ba(a,b,c){if(!a)throw Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return function(){var c=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(c,d);return a.apply(b,c)}}return function(){return a.apply(b,arguments)}}function p(a,b,c){p=Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?aa:ba;return p.apply(null,arguments)}var q=Date.now||function(){return+new Date};function ca(a,b){this.a=a;this.m=b||a;this.c=this.m.document}var da=!!window.FontFace;function t(a,b,c,d){b=a.c.createElement(b);if(c)for(var e in c)c.hasOwnProperty(e)&&("style"==e?b.style.cssText=c[e]:b.setAttribute(e,c[e]));d&&b.appendChild(a.c.createTextNode(d));return b}function u(a,b,c){a=a.c.getElementsByTagName(b)[0];a||(a=document.documentElement);a.insertBefore(c,a.lastChild)}function v(a){a.parentNode&&a.parentNode.removeChild(a)}
+function w(a,b,c){b=b||[];c=c||[];for(var d=a.className.split(/\s+/),e=0;e<b.length;e+=1){for(var f=!1,g=0;g<d.length;g+=1)if(b[e]===d[g]){f=!0;break}f||d.push(b[e])}b=[];for(e=0;e<d.length;e+=1){f=!1;for(g=0;g<c.length;g+=1)if(d[e]===c[g]){f=!0;break}f||b.push(d[e])}a.className=b.join(" ").replace(/\s+/g," ").replace(/^\s+|\s+$/,"")}function y(a,b){for(var c=a.className.split(/\s+/),d=0,e=c.length;d<e;d++)if(c[d]==b)return!0;return!1}
+function z(a){if("string"===typeof a.f)return a.f;var b=a.m.location.protocol;"about:"==b&&(b=a.a.location.protocol);return"https:"==b?"https:":"http:"}function ea(a){return a.m.location.hostname||a.a.location.hostname}
+function A(a,b,c){function d(){k&&e&&f&&(k(g),k=null)}b=t(a,"link",{rel:"stylesheet",href:b,media:"all"});var e=!1,f=!0,g=null,k=c||null;da?(b.onload=function(){e=!0;d()},b.onerror=function(){e=!0;g=Error("Stylesheet failed to load");d()}):setTimeout(function(){e=!0;d()},0);u(a,"head",b)}
+function B(a,b,c,d){var e=a.c.getElementsByTagName("head")[0];if(e){var f=t(a,"script",{src:b}),g=!1;f.onload=f.onreadystatechange=function(){g||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(g=!0,c&&c(null),f.onload=f.onreadystatechange=null,"HEAD"==f.parentNode.tagName&&e.removeChild(f))};e.appendChild(f);setTimeout(function(){g||(g=!0,c&&c(Error("Script load timeout")))},d||5E3);return f}return null};function C(){this.a=0;this.c=null}function D(a){a.a++;return function(){a.a--;E(a)}}function F(a,b){a.c=b;E(a)}function E(a){0==a.a&&a.c&&(a.c(),a.c=null)};function G(a){this.a=a||"-"}G.prototype.c=function(a){for(var b=[],c=0;c<arguments.length;c++)b.push(arguments[c].replace(/[\W_]+/g,"").toLowerCase());return b.join(this.a)};function H(a,b){this.c=a;this.f=4;this.a="n";var c=(b||"n4").match(/^([nio])([1-9])$/i);c&&(this.a=c[1],this.f=parseInt(c[2],10))}function fa(a){return I(a)+" "+(a.f+"00")+" 300px "+J(a.c)}function J(a){var b=[];a=a.split(/,\s*/);for(var c=0;c<a.length;c++){var d=a[c].replace(/['"]/g,"");-1!=d.indexOf(" ")||/^\d/.test(d)?b.push("'"+d+"'"):b.push(d)}return b.join(",")}function K(a){return a.a+a.f}function I(a){var b="normal";"o"===a.a?b="oblique":"i"===a.a&&(b="italic");return b}
+function ga(a){var b=4,c="n",d=null;a&&((d=a.match(/(normal|oblique|italic)/i))&&d[1]&&(c=d[1].substr(0,1).toLowerCase()),(d=a.match(/([1-9]00|normal|bold)/i))&&d[1]&&(/bold/i.test(d[1])?b=7:/[1-9]00/.test(d[1])&&(b=parseInt(d[1].substr(0,1),10))));return c+b};function ha(a,b){this.c=a;this.f=a.m.document.documentElement;this.h=b;this.a=new G("-");this.j=!1!==b.events;this.g=!1!==b.classes}function ia(a){a.g&&w(a.f,[a.a.c("wf","loading")]);L(a,"loading")}function M(a){if(a.g){var b=y(a.f,a.a.c("wf","active")),c=[],d=[a.a.c("wf","loading")];b||c.push(a.a.c("wf","inactive"));w(a.f,c,d)}L(a,"inactive")}function L(a,b,c){if(a.j&&a.h[b])if(c)a.h[b](c.c,K(c));else a.h[b]()};function ja(){this.c={}}function ka(a,b,c){var d=[],e;for(e in b)if(b.hasOwnProperty(e)){var f=a.c[e];f&&d.push(f(b[e],c))}return d};function N(a,b){this.c=a;this.f=b;this.a=t(this.c,"span",{"aria-hidden":"true"},this.f)}function O(a){u(a.c,"body",a.a)}function P(a){return"display:block;position:absolute;top:-9999px;left:-9999px;font-size:300px;width:auto;height:auto;line-height:normal;margin:0;padding:0;font-variant:normal;white-space:nowrap;font-family:"+J(a.c)+";"+("font-style:"+I(a)+";font-weight:"+(a.f+"00")+";")};function Q(a,b,c,d,e,f){this.g=a;this.j=b;this.a=d;this.c=c;this.f=e||3E3;this.h=f||void 0}Q.prototype.start=function(){var a=this.c.m.document,b=this,c=q(),d=new Promise(function(d,e){function k(){q()-c>=b.f?e():a.fonts.load(fa(b.a),b.h).then(function(a){1<=a.length?d():setTimeout(k,25)},function(){e()})}k()}),e=new Promise(function(a,d){setTimeout(d,b.f)});Promise.race([e,d]).then(function(){b.g(b.a)},function(){b.j(b.a)})};function R(a,b,c,d,e,f,g){this.v=a;this.B=b;this.c=c;this.a=d;this.s=g||"BESbswy";this.f={};this.w=e||3E3;this.u=f||null;this.o=this.j=this.h=this.g=null;this.g=new N(this.c,this.s);this.h=new N(this.c,this.s);this.j=new N(this.c,this.s);this.o=new N(this.c,this.s);a=new H(this.a.c+",serif",K(this.a));a=P(a);this.g.a.style.cssText=a;a=new H(this.a.c+",sans-serif",K(this.a));a=P(a);this.h.a.style.cssText=a;a=new H("serif",K(this.a));a=P(a);this.j.a.style.cssText=a;a=new H("sans-serif",K(this.a));a=
+P(a);this.o.a.style.cssText=a;O(this.g);O(this.h);O(this.j);O(this.o)}var S={D:"serif",C:"sans-serif"},T=null;function U(){if(null===T){var a=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);T=!!a&&(536>parseInt(a[1],10)||536===parseInt(a[1],10)&&11>=parseInt(a[2],10))}return T}R.prototype.start=function(){this.f.serif=this.j.a.offsetWidth;this.f["sans-serif"]=this.o.a.offsetWidth;this.A=q();la(this)};
+function ma(a,b,c){for(var d in S)if(S.hasOwnProperty(d)&&b===a.f[S[d]]&&c===a.f[S[d]])return!0;return!1}function la(a){var b=a.g.a.offsetWidth,c=a.h.a.offsetWidth,d;(d=b===a.f.serif&&c===a.f["sans-serif"])||(d=U()&&ma(a,b,c));d?q()-a.A>=a.w?U()&&ma(a,b,c)&&(null===a.u||a.u.hasOwnProperty(a.a.c))?V(a,a.v):V(a,a.B):na(a):V(a,a.v)}function na(a){setTimeout(p(function(){la(this)},a),50)}function V(a,b){setTimeout(p(function(){v(this.g.a);v(this.h.a);v(this.j.a);v(this.o.a);b(this.a)},a),0)};function W(a,b,c){this.c=a;this.a=b;this.f=0;this.o=this.j=!1;this.s=c}var X=null;W.prototype.g=function(a){var b=this.a;b.g&&w(b.f,[b.a.c("wf",a.c,K(a).toString(),"active")],[b.a.c("wf",a.c,K(a).toString(),"loading"),b.a.c("wf",a.c,K(a).toString(),"inactive")]);L(b,"fontactive",a);this.o=!0;oa(this)};
+W.prototype.h=function(a){var b=this.a;if(b.g){var c=y(b.f,b.a.c("wf",a.c,K(a).toString(),"active")),d=[],e=[b.a.c("wf",a.c,K(a).toString(),"loading")];c||d.push(b.a.c("wf",a.c,K(a).toString(),"inactive"));w(b.f,d,e)}L(b,"fontinactive",a);oa(this)};function oa(a){0==--a.f&&a.j&&(a.o?(a=a.a,a.g&&w(a.f,[a.a.c("wf","active")],[a.a.c("wf","loading"),a.a.c("wf","inactive")]),L(a,"active")):M(a.a))};function pa(a){this.j=a;this.a=new ja;this.h=0;this.f=this.g=!0}pa.prototype.load=function(a){this.c=new ca(this.j,a.context||this.j);this.g=!1!==a.events;this.f=!1!==a.classes;qa(this,new ha(this.c,a),a)};
+function ra(a,b,c,d,e){var f=0==--a.h;(a.f||a.g)&&setTimeout(function(){var a=e||null,k=d||null||{};if(0===c.length&&f)M(b.a);else{b.f+=c.length;f&&(b.j=f);var h,m=[];for(h=0;h<c.length;h++){var l=c[h],n=k[l.c],r=b.a,x=l;r.g&&w(r.f,[r.a.c("wf",x.c,K(x).toString(),"loading")]);L(r,"fontloading",x);r=null;null===X&&(X=window.FontFace?(x=/Gecko.*Firefox\/(\d+)/.exec(window.navigator.userAgent))?42<parseInt(x[1],10):!0:!1);X?r=new Q(p(b.g,b),p(b.h,b),b.c,l,b.s,n):r=new R(p(b.g,b),p(b.h,b),b.c,l,b.s,a,
+n);m.push(r)}for(h=0;h<m.length;h++)m[h].start()}},0)}function qa(a,b,c){var d=[],e=c.timeout;ia(b);var d=ka(a.a,c,a.c),f=new W(a.c,b,e);a.h=d.length;b=0;for(c=d.length;b<c;b++)d[b].load(function(b,d,c){ra(a,f,b,d,c)})};function sa(a,b){this.c=a;this.a=b}function ta(a,b,c){var d=z(a.c);a=(a.a.api||"fast.fonts.net/jsapi").replace(/^.*http(s?):(\/\/)?/,"");return d+"//"+a+"/"+b+".js"+(c?"?v="+c:"")}
+sa.prototype.load=function(a){function b(){if(f["__mti_fntLst"+d]){var c=f["__mti_fntLst"+d](),e=[],h;if(c)for(var m=0;m<c.length;m++){var l=c[m].fontfamily;void 0!=c[m].fontStyle&&void 0!=c[m].fontWeight?(h=c[m].fontStyle+c[m].fontWeight,e.push(new H(l,h))):e.push(new H(l))}a(e)}else setTimeout(function(){b()},50)}var c=this,d=c.a.projectId,e=c.a.version;if(d){var f=c.c.m;B(this.c,ta(c,d,e),function(e){e?a([]):(f["__MonotypeConfiguration__"+d]=function(){return c.a},b())}).id="__MonotypeAPIScript__"+
+d}else a([])};function ua(a,b){this.c=a;this.a=b}ua.prototype.load=function(a){var b,c,d=this.a.urls||[],e=this.a.families||[],f=this.a.testStrings||{},g=new C;b=0;for(c=d.length;b<c;b++)A(this.c,d[b],D(g));var k=[];b=0;for(c=e.length;b<c;b++)if(d=e[b].split(":"),d[1])for(var h=d[1].split(","),m=0;m<h.length;m+=1)k.push(new H(d[0],h[m]));else k.push(new H(d[0]));F(g,function(){a(k,f)})};function va(a,b,c){a?this.c=a:this.c=b+wa;this.a=[];this.f=[];this.g=c||""}var wa="//fonts.googleapis.com/css";function xa(a,b){for(var c=b.length,d=0;d<c;d++){var e=b[d].split(":");3==e.length&&a.f.push(e.pop());var f="";2==e.length&&""!=e[1]&&(f=":");a.a.push(e.join(f))}}
+function ya(a){if(0==a.a.length)throw Error("No fonts to load!");if(-1!=a.c.indexOf("kit="))return a.c;for(var b=a.a.length,c=[],d=0;d<b;d++)c.push(a.a[d].replace(/ /g,"+"));b=a.c+"?family="+c.join("%7C");0<a.f.length&&(b+="&subset="+a.f.join(","));0<a.g.length&&(b+="&text="+encodeURIComponent(a.g));return b};function za(a){this.f=a;this.a=[];this.c={}}
+var Aa={latin:"BESbswy","latin-ext":"\u00e7\u00f6\u00fc\u011f\u015f",cyrillic:"\u0439\u044f\u0416",greek:"\u03b1\u03b2\u03a3",khmer:"\u1780\u1781\u1782",Hanuman:"\u1780\u1781\u1782"},Ba={thin:"1",extralight:"2","extra-light":"2",ultralight:"2","ultra-light":"2",light:"3",regular:"4",book:"4",medium:"5","semi-bold":"6",semibold:"6","demi-bold":"6",demibold:"6",bold:"7","extra-bold":"8",extrabold:"8","ultra-bold":"8",ultrabold:"8",black:"9",heavy:"9",l:"3",r:"4",b:"7"},Ca={i:"i",italic:"i",n:"n",normal:"n"},
+Da=/^(thin|(?:(?:extra|ultra)-?)?light|regular|book|medium|(?:(?:semi|demi|extra|ultra)-?)?bold|black|heavy|l|r|b|[1-9]00)?(n|i|normal|italic)?$/;
+function Ea(a){for(var b=a.f.length,c=0;c<b;c++){var d=a.f[c].split(":"),e=d[0].replace(/\+/g," "),f=["n4"];if(2<=d.length){var g;var k=d[1];g=[];if(k)for(var k=k.split(","),h=k.length,m=0;m<h;m++){var l;l=k[m];if(l.match(/^[\w-]+$/)){var n=Da.exec(l.toLowerCase());if(null==n)l="";else{l=n[2];l=null==l||""==l?"n":Ca[l];n=n[1];if(null==n||""==n)n="4";else var r=Ba[n],n=r?r:isNaN(n)?"4":n.substr(0,1);l=[l,n].join("")}}else l="";l&&g.push(l)}0<g.length&&(f=g);3==d.length&&(d=d[2],g=[],d=d?d.split(","):
+g,0<d.length&&(d=Aa[d[0]])&&(a.c[e]=d))}a.c[e]||(d=Aa[e])&&(a.c[e]=d);for(d=0;d<f.length;d+=1)a.a.push(new H(e,f[d]))}};function Fa(a,b){this.c=a;this.a=b}var Ga={Arimo:!0,Cousine:!0,Tinos:!0};Fa.prototype.load=function(a){var b=new C,c=this.c,d=new va(this.a.api,z(c),this.a.text),e=this.a.families;xa(d,e);var f=new za(e);Ea(f);A(c,ya(d),D(b));F(b,function(){a(f.a,f.c,Ga)})};function Ha(a,b){this.c=a;this.a=b}Ha.prototype.load=function(a){var b=this.a.id,c=this.c.m;b?B(this.c,(this.a.api||"https://use.typekit.net")+"/"+b+".js",function(b){if(b)a([]);else if(c.Typekit&&c.Typekit.config&&c.Typekit.config.fn){b=c.Typekit.config.fn;for(var e=[],f=0;f<b.length;f+=2)for(var g=b[f],k=b[f+1],h=0;h<k.length;h++)e.push(new H(g,k[h]));try{c.Typekit.load({events:!1,classes:!1,async:!0})}catch(m){}a(e)}},2E3):a([])};function Ia(a,b){this.c=a;this.f=b;this.a=[]}Ia.prototype.load=function(a){var b=this.f.id,c=this.c.m,d=this;b?(c.__webfontfontdeckmodule__||(c.__webfontfontdeckmodule__={}),c.__webfontfontdeckmodule__[b]=function(b,c){for(var g=0,k=c.fonts.length;g<k;++g){var h=c.fonts[g];d.a.push(new H(h.name,ga("font-weight:"+h.weight+";font-style:"+h.style)))}a(d.a)},B(this.c,z(this.c)+(this.f.api||"//f.fontdeck.com/s/css/js/")+ea(this.c)+"/"+b+".js",function(b){b&&a([])})):a([])};var Y=new pa(window);Y.a.c.custom=function(a,b){return new ua(b,a)};Y.a.c.fontdeck=function(a,b){return new Ia(b,a)};Y.a.c.monotype=function(a,b){return new sa(b,a)};Y.a.c.typekit=function(a,b){return new Ha(b,a)};Y.a.c.google=function(a,b){return new Fa(b,a)};var Z={load:p(Y.load,Y)};"function"===typeof define&&define.amd?define(function(){return Z}):"undefined"!==typeof module&&module.exports?module.exports=Z:(window.WebFont=Z,window.WebFontConfig&&Y.load(window.WebFontConfig));}());
+</script><link rel='stylesheet' id='hbg-prime-css'  href='//helsingborg-stad.github.io/styleguide-web/dist/css/hbg-prime-red.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='municipio-css'  href='https://artstreethbg.helsingborg.se/wp-content/themes/municipio/assets/dist/css/app.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://artstreethbg.helsingborg.se/wp/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='form-builder-css'  href='https://artstreethbg.helsingborg.se/wp-content/plugins/modularity-form-builder/dist/css/modularity-form-builder.067cd7cb.css' type='text/css' media='all' />
+<link rel='stylesheet' id='event-integration-css'  href='https://artstreethbg.helsingborg.se/wp-content/plugins/api-event-manager-integration/dist/css/event-manager-integration.css' type='text/css' media='all' />
+<script type='text/javascript' id='hbg-prime-js-extra'>
+/* <![CDATA[ */
+var HbgPrimeArgs = {"api":{"root":"https:\/\/artstreethbg.helsingborg.se\/wp-json\/","nonce":"ee2c0cb4cc","postTypeRestUrl":"https:\/\/artstreethbg.helsingborg.se\/wp-json\/wp\/v2\/pages"},"cookieConsent":{"show":true,"message":"<p>P\u00e5 Artstreet Helsingborg\u00a0anv\u00e4nder vi cookies (kakor) f\u00f6r att webbplatsen ska fungera p\u00e5 ett bra s\u00e4tt f\u00f6r dig. Genom att klicka vidare godk\u00e4nner du att vi anv\u00e4nder cookies. <a href=\"https:\/\/helsingborg.se\/toppmeny\/om-webbplatsen\/sa-har-behandlar-vi-dina-personuppgifter\/\">L\u00e4s mer om hur Helsingborgs stad behandlar personuppgifter.<\/a><\/p>\n","button":"Jag godk\u00e4nner","placement":"top"},"googleTranslate":{"gaTrack":null,"gaUA":"UA-16679007-45"},"scrollElevator":{"cta":null,"tooltip":null,"tooltipPosition":null},"tableFilter":{"empty":"Inga matchande filter hittades\u2026"}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='//helsingborg-stad.github.io/styleguide-web/dist/js/hbg-prime.min.js?ver=5.7.2' id='hbg-prime-js'></script>
+<script type='text/javascript' id='municipio-js-extra'>
+/* <![CDATA[ */
+var MunicipioLang = {"printbreak":{"tooltip":"Infoga sidbrytning f\u00f6r utskrift"},"messages":{"deleteComment":"\u00c4r du s\u00e4ker p\u00e5 att du vill ta bort kommentaren?","onError":"N\u00e5got gick fel, v\u00e4nligen f\u00f6rs\u00f6k igen senare"}};
+var likeButtonData = {"ajax_url":"https:\/\/artstreethbg.helsingborg.se\/wp\/wp-admin\/admin-ajax.php","nonce":"a2d4a2aec5"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/themes/municipio/assets/dist/js/app.js' id='municipio-js'></script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/themes/municipio/assets/dist/js/ajax.js' id='municipio-ajax-js'></script>
+<script type='text/javascript' defer="defer" src='https://cdn.polyfill.io/v3/polyfill.min.js?ver=5.7.2' id='polyfill-js'></script>
+<script type='text/javascript' id='form-builder-js-front-js-extra'>
+/* <![CDATA[ */
+var formbuilder = {"site_key":"6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw","sending":"Skickar","checkbox_required":"Du m\u00e5ste kryssa f\u00f6r minst ett alternativ","something_went_wrong":"N\u00e5got gick fel"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/plugins/modularity-form-builder/dist/js/modularity-form-builder-front.f828ff70.js' id='form-builder-js-front-js'></script>
+
+            <script>
+            WebFont.load({
+                google: {
+                  families: ['Roboto:300,400,400i,500,500i,700,700i,900']
+                },
+                timeout: 2000
+              });
+            </script>
+        
+            <style>
+            body {
+                font-family: Roboto,system,Segoe UI,Tahoma,-apple-system;
+            }
+            </style>
+        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="page-template page-template-one-page-blade page-template-one-page-blade-php page page-id-656 page-parent no-js t-municipio">
+
+<a href="#main-menu" class="btn btn-default btn-block btn-lg btn-offcanvas"
+   tabindex="1">Hoppa till huvudmenyn</a>
+<a href="#main-content" class="btn btn-default btn-block btn-lg btn-offcanvas"
+   tabindex="2">Hoppa till innehåll</a>
+
+<div id="wrapper">
+    
+    
+    <header id="site-header" class="site-header site-header header-jumbo">
+        <div class="print-only container">
+            <div class="grid">
+                <div class="grid-sm-12">
+                    <a href="https://artstreethbg.helsingborg.se" class="logotype" ><span class="h1 no-margin no-padding">ArtStreetHbg</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-top hidden-sm hidden-print" id="search">
+    <div class="container">
+        <div class="grid">
+            <div class="grid-sm-12">
+                <div class="search" itemscope itemtype="http://schema.org/WebSite">
+    <meta itemprop="url" content="https://artstreethbg.helsingborg.se">
+
+    <form method="get" action="https://artstreethbg.helsingborg.se" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+        <meta itemprop="target" content="https://artstreethbg.helsingborg.se/?s={search_term_string}">
+
+                    <label for="searchkeyword-1" class="sr-only">Sök</label>
+        
+        <div class="input-group input-group-lg">
+            <input itemprop="query-input" required id="searchkeyword-1" autocomplete="off" class="form-control form-control-lg" type="search" name="s" placeholder="Sök efter" value="">
+            <span class="input-group-addon-btn">
+                <input type="submit" class="btn btn-primary btn-lg" value="Sök">
+            </span>
+        </div>
+    </form>
+</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<nav class="navbar navbar-mainmenu hidden-print  ">
+    <div class="container">
+        <div class="grid">
+            <div class="grid-xs-12 grid-md-12">
+                <div class="grid">
+                    <div class="grid-sm-12 grid-md-4">
+                        <a href="https://artstreethbg.helsingborg.se" class="logotype" ><span class="h1 no-margin no-padding">ArtStreetHbg</span></a>
+
+                                                <a href="#mobile-menu" data-target="#mobile-menu" class="hidden-md hidden-lg menu-trigger"><span class="menu-icon"></span></a>
+                                            </div>
+
+                                        <div class="grid-md-8 text-right hidden-xs hidden-sm">
+                        <nav class="nav-group-overflow" data-btn-width="100">
+                            <ul id="main-menu" class="nav nav-right nav-multilevel hidden-xs hidden-sm"><li id="menu-item-1711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1711"><a href="https://artstreethbg.helsingborg.se/om-artstreethbg/">Om ArtStreetHbg</a></li>
+<li id="menu-item-1712" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item menu-item-1712"><a href="https://artstreethbg.helsingborg.se/konsten/" aria-current="page">Konsten</a></li>
+<li id="menu-item-2327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="https://artstreethbg.helsingborg.se/karta/">Karta</a></li>
+<li id="menu-item-1715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="https://artstreethbg.helsingborg.se/kontakt/">Kontakt</a></li>
+</ul>
+                            <span class="dropdown">
+<span class="btn btn-primary dropdown-toggle hidden">Mer</span>
+<ul class="dropdown-menu nav-grouped-overflow hidden"></ul>
+</span>
+
+                        </nav>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+    <nav id="mobile-menu" class="nav-mobile-menu nav-toggle-expand nav-toggle hidden-md hidden-lg hidden-print">
+        <form class="search" method="get" action="/">
+    <label for="searchkeyword-mobile" class="sr-only">Sök</label>
+
+    <div class="input-group">
+        <input id="searchkeyword-mobile" autocomplete="off" class="form-control" type="search" name="s" placeholder="Sök efter" value="">
+        <span class="input-group-addon-btn">
+            <input type="submit" class="btn btn-primary" value="Sök">
+        </span>
+    </div>
+</form>
+
+<ul id="menu-huvudmeny" class="nav-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1711"><a href="https://artstreethbg.helsingborg.se/om-artstreethbg/">Om ArtStreetHbg</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-656 current_page_item menu-item-1712"><a href="https://artstreethbg.helsingborg.se/konsten/" aria-current="page">Konsten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2327"><a href="https://artstreethbg.helsingborg.se/karta/">Karta</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="https://artstreethbg.helsingborg.se/kontakt/">Kontakt</a></li>
+</ul>
+
+
+    </nav>
+    </header>
+
+    
+            <div class="modularity-mod-section-full has-divider modularity-mod-section-full-2928"><section id="artstreethbg-2022" class="section section-full divider-bottom divider-skew section-sm padding-sm image- text-top image-focus-left-center fontsize-normal columnize-1 text-color-light" style="background-color: #ec6701; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">#ArtStreetHbg 2022</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2930"><section id="taraxacum-dandelion" class="section section-split background-4 section-sm padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/p1177422-hdr-enhanced-16-9-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/p1177422-hdr-enhanced-16-9-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">TARAXACUM &#8211; DANDELION</h2>
+                                       <p>Ett ögonblick i historien, ett sandat surrealistiskt motiv på trä som påminner om ett gammalt fotografi. Det visar en tidlös gest, gjord av generationer. Det är som att få en present av moder natur, en äkta blomma som växer överallt, men som ändå innehåller en sådan rikedom, oavsett om den är näringsmässig eller medicinsk. Den abstrakta linjen av färger representerar kontinuiteten genom tiderna, det är en symbol för dåtid, nutid och framtid. Precis som jorden arbetar med himlen som en harmonisk enhet, blir det linjära cirkulärt. Den mystiska platsen där två ytterligheter möts och förenar evigheten.</p>
+<p>Du hittar verket på Minörgatan 17.</p>
+<p>Konstverk av LPVDA och Nicolas Vaudroz (CH).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2940"><section id="ai-verket-och-ollio" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/p1177331-hdr-enhanced-16-9-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/p1177331-hdr-enhanced-16-9-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">AI-verket och OLLIO</h2>
+                                       <p>Vad händer när en AI utmanas att analysera 2700 bokstavsskisser från 200 svenska graffitimålare och resultatet sedan ska målas av en livs levande konstnär? Slutresultat, målat av OLLIO , finns att beskåda på Tränsgatan 1 i Helsingborg.</p>
+<p>Konstverk av OLLIO (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/ollio/">Mer om konstverket</a></p>
+<p>&nbsp;</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2955"><section id="frankey" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/frankey_collage-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/frankey_collage-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Frankey</h2>
+                                       <p>MARY POPPINS<br />
+PEACE-PECKER<br />
+FOX FRANKEY<br />
+VIKING HELMET<br />
+OSCAR<br />
+SAFEBOX</p>
+<p>Verken finns runt om på Fredriksdals bostadsområde.</p>
+<p>Konstverk av Frankey (NL).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2949"><section id="fredriksdalspiraterna" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/cf_dsc3279_ansikten-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2022/08/cf_dsc3279_ansikten-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Fredriksdalspiraterna</h2>
+                                       <p>Verket Fredriksdalspiraterna föreställer sex personer som bor på Fredriksdal. Verket kom till genom att frivilliga boende på Fredriksdal gjöts av med hjälp av alginat. Alginat är ett material bestående av alger som vanligen används av tandläkare. Med denna tillverkades formar som konstnären fyllde med olikfärgad jesmonite, en slags akrylkharts. Modellerna fick vara med att inspirera till de individuella titlarna genom de historier de berättade medan de gjöts av.</p>
+<p>Du hittar piraterna på Tärnsgatan 4-6.</p>
+<p>Konstverk av Sara Stenlund (SE).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-full has-divider modularity-mod-section-full-2696"><section id="artstreethbg-2021" class="section section-full divider-bottom divider-skew section-sm padding-sm image- text-top image-focus-left-center fontsize-normal columnize-1 text-color-light" style="background-color: #cb0050; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">#ArtStreetHbg 2021</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2702"><section id="i-am-laia" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/08/iamlaia_cf_1920x-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/08/iamlaia_cf_1920x-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">I am Laia</h2>
+                                       <p>Laia använder ofta starka och uppiggande färger för att hon hoppas att förbipasserande ska bli glada av att se hennes verk. Av samma anledning väljer hon därför att måla element som palmer med förhoppningen att betraktaren ska börja drömma sig bort till semester och exotiska platser. Laia vill med andra ord överösa iakttagaren som går förbi på Hantverkaregatan med varma och härliga känslor som får dem att le.</p>
+<p>Konstverk av I am Laia (ES).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2713"><section id="wild-style" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/08/artstreet_2021_huge_4170-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/08/artstreet_2021_huge_4170-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Wild Style</h2>
+                                       <p>&#8221;Wild Style&#8221;, målad av svenska Huge är en hyllning, eller om man så vill en pastisch, till den legenderiska graffitimålningen från 1983 i Bronx gjord av graffitimålarna Zephyr, Revolt och Sharp. Det är en målning som inspirerat många av nutidens aktiva målare som varit med från när det började. En självklar koppling till 2021 års tema där vi gick tillbaka till konstformens rötter.</p>
+<p>Och när Huge nu målade en version av klassikern gjorde han självklart det med sitt eget signum, heliumballonger. Verket finns på Sturegatan / Lillbacken.</p>
+<p>Konstverk av Huge (SV).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2722"><section id="yubia" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/yubia_dsc2176_1920x1080-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/yubia_dsc2176_1920x1080-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Yubia</h2>
+                                       <p>Yubia, som bor och verkar i Spanien, beskriver sitt verk som en målning där hon blandade olika element från hennes fantasi tillsammans med Pågatåget som finns med i bilden. Det senare är huvudkaraktären samtidigt som det finns inslag av andra kulturer, exempelvis den japanska kulturen men också graffitikultur. Alla karaktärer är glada och många ler vilket är hur Yubia själv föredrar att se på livet, med glädje, fullt av färg och roliga stunder. Verkat kan ses på Hantverkaregatans parkeringshus.</p>
+<p>Konstverk av Yubia (ES).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2729"><section id="mina-mania" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/cf_dsc2156_minamani-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/cf_dsc2156_minamani-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Mina Mania</h2>
+                                       <p>Den tyska konstnären lät den svenska midsommaren med blommor och flickor sätta temat för hennes muralmålning Les jumelles fleurs &#8211; Blomkikaren. Picassos klassiker La femme fleur blev inspiration till motivet, varpå Mina Mania lät sina ikoniska kvinnor &#8221;Nanas&#8221; ta plats på studenthemmets södra gavel vid Bryggaregatan/ Gustav Adolfsgatan. Målningen är tillägnad Minas syster.</p>
+<p>Konstverk av Mina Mania (DEU).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2738"><section id="partone" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_laila_yubia_torres_3770-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_laila_yubia_torres_3770-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">PartOne</h2>
+                                       <p>PartOne, eller Enrique Torres som han egentligen heter, är en av pionjärerna inom graffitikulturen och medlem i den legendariska konstnärsgruppen The Death Squad.  Han var en av de första som började måla den stilen under sjuttiotalet i New York.  Han beskriver sitt verk på Hantverkaregatan som solsken, och fortsätter med att berätta att det utstrålar energi så som solen. Du hittar det bredvid Yubias och I am Laias verk.</p>
+<p>Konstverk av PartOne (US).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2746"><section id="sicoer" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_sicoerism_3960-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_sicoerism_3960-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Sicoer</h2>
+                                       <p>Den polska konstnären Sicoer är berömd för sin uttrycksfulla calligraffiti-stil. Under årets ArtStreetHbg satte han färg på Nytorsbacken. Målningen täcker GA-hallens norra gavel och är faktiskt Sicoers största målning någonsin. Han använde sig av en mixad stil som innefattar spray cans och pensel. Konsten består av många detaljer som tillsammans utgör hundratals kalligrafiska bokstäver, men bildar inte några ord.</p>
+<p>Konstverk av Sicoer (POL).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2734"><section id="gemensamt-verk" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_laila_yubia_torres_3971-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2021/09/artstreet_2021_laila_yubia_torres_3971-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Gemensamt verk</h2>
+                                       <p>Verket tog form i mötet mellan konstnärerna Part One, Yubia och I am Laia. De enades om verkets färger så att det skulle bli enhetligt trots tre olika uttryck. För att verket skulle få en lokal koppling letade de runt bland barnböcker på en loppis och blev förälskade i karaktärerna ur Bamse vilket man kan se gav inspiration till elementen. PartOnes del är ”bubble letters” som var den stilen han använde i början av sin karriär under tidigt sjuttiotal.</p>
+<p>Verket finns på Hantverkaregatans parkeringshus.</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-full has-divider modularity-mod-section-full-2078"><section id="artstreethbg-2020" class="section section-full divider-bottom divider-skew-reverse section-sm padding-sm image- text-top image-focus-center-center fontsize-normal columnize-1 text-color-light" style="background-color: #ec6701; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">#ArtStreetHbg 2020</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2449"><section id="carla-00-0002" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/10/dji_0125-scaled-960x1080.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/10/dji_0125-scaled-960x1080.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Carla 00: 00,02</h2>
+                                       <p>Dourone är en konstnärsduo bosatt i Bryssel. Verket Carla 00: 00,02 är en del av deras projekt Fragmented Record. Projektet syftar till att belysa hur människor anpassar sig på en ständig föränderlig jord. Dourone har studerat förhållandet mellan rörelse och tid respektive känslor. Verket porträtterar 10 årig Carla som även hon bor i Bryssel. Carla säger att hon tror att världen hade kunnat vara ett under men att det är för mycket skräp och föroreningar för att man ska kunna se dess skönhet. Hennes dröm är att bli sångerska.</p>
+<p>Verket är en ögonblicksbild av två sekunder från hennes liv. Det består av 44 paneler som alla är målade i Dourones studio och därefter skickade till Helsingborg. Verket monterades av Dourone själva under oktober månad. Du hittar det nästan högst upp i Furutorpsbacken.</p>
+<p>Konstverk av Dourone (BEL).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/dourone/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2255"><section id="shattering" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/09/leonkeer-mural-helsingborg-streetart-teacups-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/09/leonkeer-mural-helsingborg-streetart-teacups-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Shattering</h2>
+                                       <p>Leon Keers verk spelar på klimatförändringarna och dess inverkan på vår jord. Lika ömtåliga som kopparna är, lika ömtålig är vår jord. Varje kopp visar ett senario på temat. Målningen kommer dessutom till liv genom AR och Leon Keers egen app som du enkelt kan ladda ner kostnadsfritt. Då kommer du få se kopparna gå sönder i bitar. Kopparna är dessutom målade som våra klassiska Rörstand-koppar. Väggen är 15 x 7,5 meter på Södergatan 11 D.</p>
+<p><a href="https://apps.apple.com/us/app/leon-keer/id1440527407">Du hittar appen för iOS här</a>. </p>
+<p><a href="https://play.google.com/store/apps/details?id=nl.platipus.leonkeer&amp;hl=en_US">Du hittar appen för Google play här</a>.</p>
+<p>Konstverk av Leon Keer (NL).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/leon-keer/">Mer om konstverket</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2249"><section id="johanna-bussqvist" class="section section-split background-4 section-md padding-sm image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/09/dsc1318cropped-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/09/dsc1318cropped-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Johanna Bussqvist</h2>
+                                       <p>Johanna Bussqvist valde att utgå från ett foto taget endast några få meter från garageportens placering. Fotografiet är taget för ca. 100 år sedan när där fanns ett stort bryggeri på platsen. Hennes tanke var att förankra platsen med sin historia genom visuellt berättande. Bilden har bearbetats i Photoshop och målats på porten med hjälp av projektor och metallfärg. Verket finns inte längre kvar.</p>
+<p>Konstverk av Johanna Bussqvist (SE).</p>
+<p>&nbsp;</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2138"><section id="rotblota" class="section section-split background-4 section-md padding-sm image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc1456-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc1456-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Rotblöta</h2>
+                                       <p>Hilma Nordéns (H.O.N) inspiration till muralen på Carl Krooks gata 17 kommer från den svenska urskogen. Urskogarna som blir färre och färre på grund av att det avverkas många träd. Vem vaktar skogarna, sörjer om dem och vandrar kalhyggen om kvällen? Motivet är inspirerat av stubbar, lera, mörkt vatten och sår i skogen.</p>
+<p>Konstverk av H.O.N (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/h-o-n/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2148"><section id="southsiders" class="section section-split background-4 section-md padding-md image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0865-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0865-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Southsiders</h2>
+                                       <p>Målningen på Furutorpsgatan 49 är lager av lager som återspeglar det fantastiska kvarteret vid målningen. Där kulturer och människor möts och tolkar den abstrakta texten precis hur betraktaren vill.</p>
+<p>Konstverk av Etile1 (SE).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2153"><section id="magic-portals" class="section section-split background-4 section-md padding-md image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0971-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0971-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Magic Portals</h2>
+                                       <p>Verket bjuder in dig som åskådare till ett parallellt universum, där natur, magi och rörelse talar med varandra. En trygg plats att drömma sig iväg i för att ibland fly en värld som kan kännas skrämmande att vara i. Julias abstrakta kompositioner är en samling av mönster och symboler från resor, möten och platser. Du hittar Julias konstverk på Furutorpsgatan 29.</p>
+<p>Konstverk av Julia Rio (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/julia-rio/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2162"><section id="phantasmagoria" class="section section-split background-4 section-md padding-md image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc1074-1-1-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc1074-1-1-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Phantasmagoria</h2>
+                                       <p>Verket är improviserat och taget från fantasin men har anknytning till verkligheten då Max Persson utgått från en simpel idé av ett fordon: två hjul och en kropp. Se det på Nedre Nytorgsgatan 13.</p>
+<p>Konstverk av Max Persson (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/max-persson/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2167"><section id="stronger-than-you-think" class="section section-split background-4 section-md padding-md image-left text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0753-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0753-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Stronger than you think</h2>
+                                       <p>Karin Söderquists verk handlar om känslan av att inte riktigt passa in, att rollen man tilldelats känns för liten eller för snäv. Det är en hyllning till alla som vågar vara sig själva, bryta normer och leva sitt liv som de själva vill, trots att världen säger åt dem att vara annorlunda. Du hittar garageporten på Bryggaregatan 34.</p>
+<p>Till vardags jobbar Karin som illustratör och designer. Hon är bosatt i Stockholm, utbildad i London och uppväxt i Eskilstuna. Hennes illustrationer är ofta färgglada och har beskrivits som “feminine and empowering with the right percentage of whimsy”.</p>
+<p>Konstverk av Karin Söderquist (SE).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-2187"><section id="prwnd" class="section section-split background-4 section-md padding-md image-right text-top image-focus-center-center fontsize-normal  text-color-dark " style="background-color: ;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0989-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/08/dsc0989-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">PRWND</h2>
+                                       <p>Bryggaregatan 40 har fått ny liv genom målningen gjord av konstnären Jonas Molbaek. Motivet föreställer en ung hand på två äldre händer vilket ska symbolisera olika generationer och hur tiden går.</p>
+<p>Konstverk av PRWND (DK).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/prwnd/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-full has-divider modularity-mod-section-full-1767"><section id="artstreethbg-2019" class="section section-full divider-bottom divider-skew section-sm padding-sm image- text-middle image-focus-center-center fontsize-normal columnize-1 text-color-light" style="background-color: #cb0050; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">#ArtStreetHbg 2019</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-1769"><section id="ancient-wisdom-is-our-crown" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/dsc0476_rt-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/dsc0476_rt-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Ancient wisdom is our crown</h2>
+                                       <p>Vera Primavera är en erkänd gatu- och tauteringskonstnär från Ecuador. Primaveras mission är att återta bilden av kvinnor i våra stadsrum. Därför målar hon ofta kvinnor som förmedlar mystik, feminism och kraft. Hon målar på Kommissgatan 4 på Eneborg.</p>
+<p>Konstverk av Vera Primavera (ECU).</p>
+<p>&nbsp;</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-1773"><section id="amy-sol" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/03/artstreet_ekorren-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/03/artstreet_ekorren-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Amy Sol</h2>
+                                       <p>Amy Sol är en USA-baserad konstnär som målar kvinnliga figurer och naturmotiv med mjuka former och dova färger. Sol har medverkat vid flertalet av världens största gatukonstfestivaler, bland annat Thinkspace Los Angeles och PopWow Worlwide på Hawaii. Målar en vägg vid Övre Holländaregatan 29 på Söder i Helsingborg.</p>
+<p>Till höger ser du resultatet, Amys soliga vägg lyser verkligen upp.</p>
+<p>Konstverk av Amy Sol (US).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-1776"><section id="tobias-kuhl" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/dsc0483_rt-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/dsc0483_rt-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Tobias Kühl</h2>
+                                       <p>Tobias Kühl är en av två lokala artister som får chansen att visa upp sig under #ArtStreetHbg 2019. Kühl är baserad i Helsingborg medan han studerar arkitektur vid Lunds Universitet. Han målar väldigt grafiska och fantasirika motiv med inslag av komik. Under #ArtStreetHbg målar han transformatorhuset mellan Övre Eneborgsvägen och Wieselgrensgatan.</p>
+<p>Konstverk av Tobias Kühl (SE).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-1779"><section id="christoffer-erneholm" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/trappan_christoffererneholm_1920x1080-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/07/trappan_christoffererneholm_1920x1080-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Christoffer Erneholm</h2>
+                                       <p>Christoffer Erneholm är en lokal street art-artist som i år får chansen att ta steget ut på den stora scenen genom att måla trappan mellan Gasverksgatan och Sjöcronaplatsen på Söder. Christoffer har tidigare målat skateparker och annat. Vi tror mycket på honom i årets festival.</p>
+<p>Här till höger ser du trappan och hur den ser ut när den är färdig.</p>
+<p>Konstverk av Christoffer Erneholm (SE).</p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-full has-divider modularity-mod-section-full-668"><section id="konstverk-fran-2018" class="section section-full divider-bottom divider-skew-reverse section-sm padding-sm image- text-middle image-focus-center-center fontsize-normal columnize-1 text-color-light" style="background-color: #ec6701; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">Konstverk från 2018</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-765"><section id="poseidon" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0450_rt-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0450_rt-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Poseidon</h2>
+                                       <p>Poseidon blandar äldre konststilar med moderna gatukonsttekniker. PichiAvo är grafittimålare i grunden men har på senaste tiden mixat gatukonsten med inslag av antik konst, som du ser i Poseidon. Denna kombination av gatukonst och grekisk mytologi syns i alla deras senare verk och nu även i Helsingborg. Gå förbi Gasverksgatan 29 och visa din vördnad för Helsingborgs egen vattengud.</p>
+<p>Konstverk av PichiAvo (ES).</p>
+<p><a class="btn-theme-first btn btn-lg" href="https://artstreethbg.helsingborg.se/konsten/poseidon/">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-778"><section id="portrait-of-gisela-trapp" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0459_rt-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0459_rt-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Portrait of Gisela Trapp</h2>
+                                       <p>Vem är över 100 år gammal och samtidigt bara ett år gammal? Gisela Trapp såklart, i alla fall i konsten. Portrait of Gisela Trapp, på Södergatan 43, som blickar ut över Gustaf Adolfs Torg är inspirerat av flera olika porträtt av Gisela Trapp samt verk som hon själv har skapat. Christina fann inspiration till konstverket efter att ha läst om Gisela Trapps liv och donationen av Fredriksdal för 100 år sedan. Detta är ett av två verk av, för konstnären okända, kvinnor. Christina målar annars porträtt av kvinnor i hennes närhet.</p>
+<p>Konstverk av Christina &#8221;Starfighter&#8221; Angelina (US).</p>
+<p><a class="btn-theme-first btn btn-lg" href="https://artstreethbg.helsingborg.se/konsten/portrait-of-gisela-trapp">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-805"><section id="melias-journey" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/mantra_005-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/mantra_005-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Mélia’s Journey</h2>
+                                       <p>Målningen som lokalt benämns som ”Katten” heter egentligen Mélia’s Journey. Mélia är den kända fotografen Martha Coopers katt som ligger på hennes bokhylla. Kultförklarade Martha Cooper blev känd genom att dokumentera hiphopens framväxt under 70 och 80-talen. Hon dokumenterade alla hiphopens element (breaking, graffiti, rap och deejaying), men är framför allt uppmärksammad för de foton med graffiti som motiv. Fotot som Mantra har använt som grund för ArtStreetHBG, är taget i Marthas hem i New York, efter ett personligt möte mellan de båda. Mantra har under målandet av Mélia’s Journey främst använt sig av roller men till viss del även spray. Ni ser verket på Furutorpsgatan 26 bäst från andra sidan Malmöleden.</p>
+<p>Konstverk av Mantra (FR).</p>
+<p><a class="btn-theme-first btn btn-lg" href="https://artstreethbg.helsingborg.se/konsten/melias-journey">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-815"><section id="growing" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/artstreet_torget_bla-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/artstreet_torget_bla-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Growing</h2>
+                                       <p>Growing är ett verk skapat av grafittikonstnären Timothy Avery. Starka färger och geometriska former speglar hans tolkning av Söder som område – ett historiskt område som präglats av dess arbetarbakgrund och som stor del bidragit till det Helsingborg vi ser idag. Konstverket uppmanar till nyfikenhet och en strävan att upptäcka detaljer som inte är uppenbara vid första ögonkastet. Målningen är gjord på GA torgs offentliga toalett.</p>
+<p>Konstverk av Timothy Avery (SE).</p>
+<p><a class="btn-theme-first btn btn-lg" href="https://artstreethbg.helsingborg.se/konsten/growing">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-full has-divider modularity-mod-section-full-664"><section id="konstverk-fran-2017" class="section section-full divider-bottom divider-skew section-sm padding-sm image- text-middle image-focus-center-center fontsize-normal columnize-1 text-color-light" style="background-color: #cb0050; background-image: url(); ">
+    <div class="container " data-animation="">
+    <div class="grid">
+      <div class="grid-xs-12 section-content">
+        <article class="section-article full">
+                      <h2 class="section-title">Konstverk från 2017</h2>
+                    <div class="section-text">
+              
+          </div>
+        </article>
+      </div>
+    </div>
+      </div>
+</section>
+
+</div><div class="modularity-mod-section-split modularity-mod-section-split-670"><section id="color-invasion" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/1920x1080-dsc00076-960x540.png"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/1920x1080-dsc00076-960x540.png);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Color Invasion</h2>
+                                       <p>Color Invasion är skapat av Jimmy Skize och kan sägas vara en beskrivning av Artstreethbg som projekt. Konstverket symboliserar en invasion av färg i stadsmiljön och hur grafitti blir mer accepterat i den vanliga stadsmiljön och får ta plats i den. Det är också en del av Artstreethbgs mål och ambitioner att gatukonst i alla dess olika former ska få en större plats i Helsingborgs naturliga stadsmiljö. Verket målades vid bussterminalen/Helsingborg C men finns inte längre kvar.</p>
+<p>Konstverk av Jimmy Skize (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/color-invasion">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-658"><section id="mr-fisherman" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0489_rt-scaled-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0489_rt-scaled-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Mr. Fisherman</h2>
+                                       <p>Mr. Fisherman symboliserar Helsingborgs närhet till havet. Konstnären har studerat Helsingborgs historia som fiskeläge och inspirerats av olika historiska fiskarter i sitt verk. I konstverket kan du se flera fiskar, en fiskare och om du studerar hennes verk noga kan du kanske se former som för tankarna till Rådhuset och andra byggnader i Helsingborg. Höj blicken när du passerar Södergatan 6-8.</p>
+<p>Konstverk av Ilse Weisfelt (NL).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/mr-fisherman">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-676"><section id="be-unique" class="section section-split background-4 section-md padding-md image-left text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/1920x1080tims-kameleont-960x540.png"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/1920x1080tims-kameleont-960x540.png);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">Be Unique</h2>
+                                       <p>Be Unique symboliserar, enligt Tim Timmey, att vi ska ta tillvara på de och det som är unikt. Därför föll valet på att måla en kameleont. Ödlan är på många sätt unik då de kan skifta färger och smälta in i olika miljöer på sätt som få andra djur klarar av. Därtill är flamingon i bakgrunden till för att skapa djup och göra bilden ännu mer intressant. Verket sträcker sig över Smedjegatan 4 C.</p>
+<p>Konstverk av Tim Timmey (SE).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/be-unique">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div><div class="modularity-mod-section-split modularity-mod-section-split-680"><section id="the-soder-wall" class="section section-split background-4 section-md padding-md image-right text-middle image-focus-center-center fontsize-normal  text-color-dark " style="background-color: #ffffff;" data-animation="">
+  <div class="section-image-mobile hidden-md hidden-lg ratio-16-9" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0472_rt_fyrkant-960x540.jpg"></div>
+  <div class="container container-fullwidth">
+    <div class="grid">
+      <div class="section-image hidden-xs hidden-sm grid-xs-12 grid-md-5 grid-lg-6" style="background-image: url(https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2019/05/dsc0472_rt_fyrkant-960x540.jpg);" data-equal-item></div>
+      <div class="section-content grid-xs-12 grid-md-7 grid-lg-6">
+          <article class="section-article">
+                 <div class="section-text">
+                                          <h2 class="section-title">The Söder Wall</h2>
+                                       <p>The Söder Wall, på Bryggaregatan 40, är ganska “straight forward” enligt konstnären själv. Han menar att det inte finns någon annan djupare symbolik i bilden än att människor har trevligt tillsammans. Ursprungligen ville han måla djur på väggen men fick feedback från boende och förbipasserande att det inte passade. Därför skissade han om och valde att måla en trevlig bild av människor som har kul tillsammans.</p>
+<p>Konstverk av Levi Jacobs (NL).</p>
+<p><a class="btn-theme-first btn" href="https://artstreethbg.helsingborg.se/konsten/the-soder-wall">Mer om konstverket</a></p>
+
+                </div>
+          </article>
+      </div>
+    </div>
+      </div>
+</section>
+</div>    
+
+
+    <main id="main-content" class="clearfix main-content">
+        
+    <div class="container main-container">
+            </div>
+
+
+            </main>
+
+    <footer class="main-footer hidden-print ">
+    <div class="container">
+
+        
+        <div class="grid">
+            <div class="grid-md-10">
+
+                
+                                <div class="grid grid--columns">
+                    <div class="grid-md-12">
+                        
+                        <nav class="">
+                            <ul class="nav nav-help nav-horizontal">
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+                                
+
+                
+                <div class="grid grid--columns sidebar-footer-area">
+                                            <div class="grid-lg-4"><div class="widget_text">			<div class="textwidget"><p><img loading="lazy" class="alignnone wp-image-903 size-medium" src="https://artstreethbg.helsingborg.se/wp-content/uploads/sites/92/2020/11/logo_hbg-300x100-1.png" alt="Helsingborgs stads logotyp" width="300" height="100" /></p>
+</div>
+		</div></div><div class="grid-lg-4"><div class="WP_Editor_Widget"><ul>
+<li><a href="https://helsingborg.se/toppmeny/om-webbplatsen/sa-har-behandlar-vi-dina-personuppgifter/">Så här behandlar vi dina personuppgifter</a>.</li>
+</ul>
+</div></div>                                    </div>
+                
+
+                
+                                
+            </div>
+
+            
+                            <div class="grid-md-2 text-right">
+                    <a href="http://www.helsingborg.se"></a>
+
+                </div>
+                    </div>
+    </div>
+
+    
+    
+</footer>
+
+    
+    <ul class="scroll-dots">
+                    <li><a href="#artstreethbg-2022" data-link-tooltip="#ArtStreetHbg 2022"></a></li>
+                    <li><a href="#taraxacum-dandelion" data-link-tooltip="TARAXACUM - DANDELION"></a></li>
+                    <li><a href="#ai-verket-och-ollio" data-link-tooltip="AI-verket och OLLIO"></a></li>
+                    <li><a href="#frankey" data-link-tooltip="Frankey"></a></li>
+                    <li><a href="#fredriksdalspiraterna" data-link-tooltip="Fredriksdalspiraterna"></a></li>
+                    <li><a href="#artstreethbg-2021" data-link-tooltip="#ArtStreetHbg 2021"></a></li>
+                    <li><a href="#i-am-laia" data-link-tooltip="I am Laia"></a></li>
+                    <li><a href="#wild-style" data-link-tooltip="Wild Style"></a></li>
+                    <li><a href="#yubia" data-link-tooltip="Yubia"></a></li>
+                    <li><a href="#mina-mania" data-link-tooltip="Mina Mania"></a></li>
+                    <li><a href="#partone" data-link-tooltip="PartOne"></a></li>
+                    <li><a href="#sicoer" data-link-tooltip="Sicoer"></a></li>
+                    <li><a href="#gemensamt-verk" data-link-tooltip="Gemensamt verk"></a></li>
+                    <li><a href="#artstreethbg-2020" data-link-tooltip="#ArtStreetHbg 2020"></a></li>
+                    <li><a href="#carla-00-0002" data-link-tooltip="Carla 00: 00,02"></a></li>
+                    <li><a href="#shattering" data-link-tooltip="Shattering"></a></li>
+                    <li><a href="#johanna-bussqvist" data-link-tooltip="Johanna Bussqvist"></a></li>
+                    <li><a href="#rotblota" data-link-tooltip="Rotblöta"></a></li>
+                    <li><a href="#southsiders" data-link-tooltip="Southsiders"></a></li>
+                    <li><a href="#magic-portals" data-link-tooltip="Magic Portals"></a></li>
+                    <li><a href="#phantasmagoria" data-link-tooltip="Phantasmagoria"></a></li>
+                    <li><a href="#stronger-than-you-think" data-link-tooltip="Stronger than you think"></a></li>
+                    <li><a href="#prwnd" data-link-tooltip="PRWND"></a></li>
+                    <li><a href="#artstreethbg-2019" data-link-tooltip="#ArtStreetHbg 2019"></a></li>
+                    <li><a href="#ancient-wisdom-is-our-crown" data-link-tooltip="Ancient wisdom is our crown"></a></li>
+                    <li><a href="#amy-sol" data-link-tooltip="Amy Sol"></a></li>
+                    <li><a href="#tobias-kuhl" data-link-tooltip="Tobias Kühl"></a></li>
+                    <li><a href="#christoffer-erneholm" data-link-tooltip="Christoffer Erneholm"></a></li>
+                    <li><a href="#konstverk-fran-2018" data-link-tooltip="Konstverk från 2018"></a></li>
+                    <li><a href="#poseidon" data-link-tooltip="Poseidon"></a></li>
+                    <li><a href="#portrait-of-gisela-trapp" data-link-tooltip="Portrait of Gisela Trapp"></a></li>
+                    <li><a href="#melias-journey" data-link-tooltip="Mélia’s Journey"></a></li>
+                    <li><a href="#growing" data-link-tooltip="Growing"></a></li>
+                    <li><a href="#konstverk-fran-2017" data-link-tooltip="Konstverk från 2017"></a></li>
+                    <li><a href="#color-invasion" data-link-tooltip="Color Invasion"></a></li>
+                    <li><a href="#mr-fisherman" data-link-tooltip="Mr. Fisherman"></a></li>
+                    <li><a href="#be-unique" data-link-tooltip="Be Unique"></a></li>
+                    <li><a href="#the-soder-wall" data-link-tooltip="The Söder Wall"></a></li>
+            </ul>
+
+    
+</div>
+
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' defer="defer" src='https://instant.page/3.0.0?ver=5.7.2' id='instant-page-js'></script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/plugins/modularity/dist/js/Posts/assets/mod-posts-load-more-button.js' id='mod-posts-load-more-button-js'></script>
+<script type='text/javascript' id='google-recaptcha-js-before'>
+            var CaptchaCallback = function() {
+                jQuery('.g-recaptcha').each(function(index, el) {
+                    grecaptcha.render(el, {'sitekey' : '6Ld8YTEUAAAAAECqGGXNZbyMIfG0xZMIOJM_D3Vw'});
+                });
+            };
+</script>
+<script type='text/javascript' defer="defer" src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&#038;render=explicit&#038;ver=1.0.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/plugins/api-event-manager-integration/source/js/vendor/simple-pagination/jquery.simplePagination.min.js' id='vendor-pagination-js'></script>
+<script type='text/javascript' defer="defer" src='//maps.googleapis.com/maps/api/js?key=AIzaSyAki5TaPKxxLHuYoYzIFmwf39y9EJS1uvk&#038;ver=5.7.2' id='google-maps-api-js'></script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/plugins/api-event-manager-integration/source/js/vendor/auto-complete/auto-complete.min.js' id='auto-complete-js'></script>
+<script type='text/javascript' id='event-integration-js-extra'>
+/* <![CDATA[ */
+var eventintegration = {"ajaxurl":"https:\/\/artstreethbg.helsingborg.se\/wp\/wp-admin\/admin-ajax.php","apiurl":"https:\/\/api.helsingborg.se\/event\/json\/wp\/v2"};
+var eventIntegrationFront = {"event_pagination_error":"N\u00e5got gick fel, v\u00e4nligen f\u00f6rs\u00f6k igen senare.","email_not_matching":"E-postadresserna matchar inte.","must_upload_image":"Du m\u00e5ste ladda upp en bild."};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp-content/plugins/api-event-manager-integration/dist/js/event-integration-front.js' id='event-integration-js'></script>
+<script type='text/javascript' defer="defer" src='https://artstreethbg.helsingborg.se/wp/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script>
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {
+                    pageLanguage: 'sv',
+                    autoDisplay: false,
+                    gaTrack: HbgPrimeArgs.googleTranslate.gaTrack,
+                    gaId: HbgPrimeArgs.googleTranslate.gaUA,
+                },
+                'google-translate-element'
+            );
+        }
+        </script>
+
+
+</body>
+</html>
